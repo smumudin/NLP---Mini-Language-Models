@@ -1,0 +1,14 @@
+﻿Node1,Node1Property_GroupLabel,Node2,Node2Property_GroupLabel,EdgeProperty_Correlation,EdgeProperty_Arrow_Direction,EdgeProperty_PaperID,EdgeProperty_SampleSize,EdgeProperty_SampleYears,EdgeProperty_SampleCountries,EdgeProperty_SampleIndustries
+Collective-individual,causes,Tenure,causes,-0.25,noncausal,A16JOM,257,2006,United States,Financial Services
+Fixed variable,causes,Tenure,causes,-0.14,noncausal,A16JOM,257,2006,United States,Financial Services
+Formal Informal,causes,Tenure,causes,-0.14,noncausal,A16JOM,257,2006,United States,Financial Services
+Investiture divestiture,causes,Tenure,causes,-0.2,noncausal,A16JOM,257,2006,United States,Financial Services
+Off-the-job embeddedness,social well-being,Tenure,causes,-0.01,node2-->node1,A16JOM,257,2006,United States,Financial Services
+On-the-job embeddedness,social well-being,Tenure,causes,-0.04,node2-->node1,A16JOM,257,2006,United States,Financial Services
+Sequential-random socialization tactic,causes,Tenure,causes,-0.09,noncausal,A16JOM,257,2006,United States,Financial Services
+Serial disjunctive,causes,Tenure,causes,-0.18,noncausal,A16JOM,257,2006,United States,Financial Services
+Turnover,social well-being,Tenure,causes,0.1,node2-->node1,A16JOM,257,2006,United States,Financial Services
+Collective-individual,causes,Serial disjunctive,causes,0.44,noncausal,A16JOM,257,2006,United States,Financial Services
+Formal Informal,causes,Serial disjunctive,causes,0.56,noncausal,A16JOM,257,2006,United States,Financial Services
+Investiture divestiture,causes,Serial disjunctive,causes,0.53,noncausal,A16JOM,257,2006,United States,Financial Services
+Sequential-random socialization tactic,causes,Serial disjunctive,causes,0.6,noncausal,A16JOM,257,2006,United States,Financial Services
